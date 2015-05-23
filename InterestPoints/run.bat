@@ -1,0 +1,1 @@
+stip\bin\stipdet.exe -f data\walk-simple.avi -o data\walk-simple-1.txt
